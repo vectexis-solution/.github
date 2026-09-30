@@ -31,10 +31,6 @@ better understand, assess, and secure digital systems.
 
 Practical tools for security testing, reconnaissance, analysis, assessment, and defense.
 
-### 🔎 Security Research
-
-Research into vulnerabilities, attack surfaces, defensive techniques, and emerging security technologies.
-
 ### 🧰 Open-Source Software
 
 Open-source projects designed to solve real-world cybersecurity and technology problems.
@@ -46,10 +42,6 @@ Documentation, guides, experiments, and educational resources for people learnin
 ### 🧪 Experimental Projects
 
 Research-driven prototypes and projects exploring new ideas and approaches to security.
-
-### ⚙️ Developer Utilities
-
-Tools and utilities designed to make security-focused development and research workflows more efficient.
 
 ---
 
@@ -88,7 +80,7 @@ Every meaningful contribution helps strengthen the open-source security ecosyste
 
 ## 🛡️ Responsible Security
 
-Vectexis projects are intended for **defensive security, education, research, and authorized security testing**.
+Vectexis projects are intended for **defensive & offensive security, education, research, and authorized security testing**.
 
 Always ensure that you have appropriate authorization before testing systems, networks, applications, or infrastructure that you do not own.
 
@@ -100,7 +92,7 @@ We encourage responsible security research and coordinated vulnerability disclos
 
 Explore our repositories to discover the tools, software, research, experiments, and resources we're building.
 
-**[→ Explore Vectexis Repositories](https://github.com/Vectexis-Solution?tab=repositories)**
+**[→ Explore Vectexis Repositories](https://github.com/vectexis-solution)**
 
 ---
 
@@ -122,7 +114,7 @@ And where the cybersecurity community can collaborate, learn, and build together
 
 ## 🔗 Connect With Vectexis
 
-- 🌐 **Website:** [Vectexis Solution](https://vectexis.com)
+- 🌐 **Linkedin:** [Vectexis Solution](https://linkedin.com/company/vectexis-solution)
 - 💻 **GitHub:** [Vectexis Solution](https://github.com/Vectexis-Solution)
 
 ---
@@ -133,5 +125,7 @@ And where the cybersecurity community can collaborate, learn, and build together
 *Open-source security for a safer digital world.*
 
 ---
-
+founder: Yar Muhammad Mangi
+kaywords: Vectexis Solution, Vectexis, Yar Muhammad Mangi, DeflectX SIEM, DeflectX, Open source, Cybersecurity, Technology company, Offensive Security, Defensive Security.
+---
 > © 2026 Vectexis Solution
