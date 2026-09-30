@@ -127,5 +127,6 @@ And where the cybersecurity community can collaborate, learn, and build together
 ---
 founder: Yar Muhammad Mangi
 kaywords: Vectexis Solution, Vectexis, Yar Muhammad Mangi, DeflectX SIEM, DeflectX, Open source, Cybersecurity, Technology company, Offensive Security, Defensive Security.
+
 ---
 > © 2026 Vectexis Solution
